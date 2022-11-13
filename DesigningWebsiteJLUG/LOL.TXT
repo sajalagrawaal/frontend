@@ -1,0 +1,6 @@
+                            <img src="images/pic-1.png" class="pic-one animate__animated animate__zoomIn animate__delay-1s">
+                            <img src="images/pic-2.png" class="pic-two animate__animated animate__fadeInLeft animate__delay-4s">
+                            <img src="images/pic-3.png" class="pic-three animate__animated animate__fadeInUp animate__delay-3s">
+                            <img src="images/pic-4.png" class="pic-four animate__animated animate__fadeInDown animate__delay-3s">
+                            <img src="images/pic-5.png" class="pic-five animate__animated animate__fadeInRight animate__delay-4s">
+                            <img src="images/pic-6.png" class="pic-six animate__animated animate__jackInTheBox animate__delay-5s">
